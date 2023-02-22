@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilatus_Snap_WinFormApp", "Pilatus_Snap_WinFormApp\Pilatus_Snap_WinFormApp.csproj", "{74595173-9D1D-44EE-94D2-18A4EC8D724D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74595173-9D1D-44EE-94D2-18A4EC8D724D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74595173-9D1D-44EE-94D2-18A4EC8D724D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74595173-9D1D-44EE-94D2-18A4EC8D724D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74595173-9D1D-44EE-94D2-18A4EC8D724D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BAB2DE-03FC-4BF9-ABB5-4ACCE8BEA6E5}
+	EndGlobalSection
+EndGlobal
